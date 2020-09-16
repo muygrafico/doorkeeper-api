@@ -70,3 +70,4 @@ gem 'sidekiq', '~> 6.0', '>= 6.0.3'
 gem 'sitemap_generator', '~> 6.1', '>= 6.1.2'
 gem 'whenever', require: false
 gem 'image_processing'
+gem 'doorkeeper', '~> 5.4', '>=5.4.0'
