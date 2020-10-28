@@ -124,6 +124,8 @@ GEM
       railties (>= 5)
     erubi (1.9.0)
     execjs (2.7.0)
+    faker (2.14.0)
+      i18n (>= 1.6, < 2)
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
     ffi (1.13.1)
@@ -353,6 +355,7 @@ DEPENDENCIES
   devise-bootstrapped!
   devise_masquerade (~> 1.2)
   doorkeeper (~> 5.4, >= 5.4.0)
+  faker
   font-awesome-sass (~> 5.13)
   friendly_id (~> 5.3)
   image_processing
